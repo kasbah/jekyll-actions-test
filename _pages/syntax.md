@@ -7,21 +7,25 @@ permalink: /syntax/
 GitBuilding uses a markdown-like syntax called [BuildUp]({{site.baseurl}}/syntax/buildup). We plan to formalise BuildUp into a standard once we have figured out what works best.
 
 ## Basic example:
+
 {% raw %}
+<pre class="example-block">
 
-    # Making a widget
+# Making a widget
 
-    ## You will need
-    {{BOM}}
+## You will need
+{{BOM}}
 
-    ## Method
-    Take two [M6x10 cap screws](m6capscrew.md){Qty: 2} and screw them into the bottom of the [widget base](base.md){Qty:1} using a [5mm ball driver]{Qty: 1}. 1}.
+## Method
+Take two [M6x10 cap screws](m6capscrew.md){Qty: 2} and screw them into the bottom of the [widget base](base.md){Qty:1} using a [5mm ball driver]{Qty: 1}.
 
-    [5mm ball driver]: balldriver.md "{cat: Tool}"
+[5mm ball driver]: balldriver.md "{cat: Tool}"
 
-    Screw two more [M6x10 cap screws]{Qty: 2} into the top of the [widget base] the [same ball driver][5mm ball driver]{Qty: 1}.
+Screw two more [M6x10 cap screws]{Qty: 2} into the top of the [widget base] the [same ball driver][5mm ball driver]{Qty: 1}.
 
 {% endraw %}
+
+</pre>
 
 Will evaluate to
 

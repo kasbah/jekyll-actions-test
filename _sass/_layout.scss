@@ -52,13 +52,16 @@
     letter-spacing: -1px;
     margin-bottom: 0;
     float: left;
-
+    text-decoration: none;
+    color: $grey-color-dark;
     &,
     &:visited {
         color: $grey-color-dark;
+        text-decoration: none;
     }
 
     &:hover {
+        color: $grey-color-dark;
         text-decoration: none;
     }
 }
@@ -79,6 +82,9 @@
     
     a {
         font-weight: normal;
+        &:hover {
+            color: darken($brand-color, 20%);
+        }
     }
 
     .menu-icon {
@@ -233,7 +239,13 @@
         font-size: 15px;
         color: $grey-color;
         font-weight: normal;
+        text-decoration: none;
+        
+        &:hover {
+        text-decoration: underline;
+        }
     }
+    
 }
 
 .footer-col {
@@ -403,4 +415,12 @@
             font-size: 16px;
         }
     }
+}
+
+.example-block{
+    white-space: pre-wrap;       /* Since CSS 2.1 */
+    white-space: -moz-pre-wrap;  /* Mozilla, since 1999 */
+    white-space: -pre-wrap;      /* Opera 4-6 */
+    white-space: -o-pre-wrap;    /* Opera 7 */
+    word-wrap: break-word;       /* Internet Explorer 5.5+ */
 }

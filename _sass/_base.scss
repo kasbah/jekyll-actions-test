@@ -102,16 +102,11 @@ h1, h2, h3 {
  */
 a {
     color: $text-color;
-    text-decoration: none;
+    text-decoration: underline;
     font-weight: bold;
 
-    &:visited {
-    }
-
     &:hover {
-        color: $text-color;
-        text-decoration: underline;
-        font-weight: bold;
+        color: darken($brand-color, 20%);
     }
 }
 
@@ -160,7 +155,6 @@ pre {
         padding-left: 0;
     }
 }
-
 
 
 /**
