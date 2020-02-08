@@ -56,7 +56,7 @@ Open your terminal and run
 
 and then open a browser and navigate to `http://localhost:6178/`. This will show the documentation in a browseable form. You can also edit the documentation directly from your browser:
 
-![](/assets/LiveEditorScreenshot.png)
+![]({{/assets/LiveEditorScreenshot.png | prepend: site.baseurl }})
 
 ### Build a static-html site
 

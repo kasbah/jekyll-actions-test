@@ -11,7 +11,7 @@ A BuildUp page is a [markdown] page with extra information specified for some li
 
 Steps allow you to write hierarchical documentation and count all of the parts used in these steps:
 
-![](/assets/Steps.png)
+![]({{/assets/Steps.png | prepend: site.baseurl }})
 
 Steps can also be used to generate navigation for the documentation.
 
