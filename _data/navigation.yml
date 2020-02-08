@@ -1,0 +1,13 @@
+- title: Software
+  url: /software
+- title: Syntax
+  url: /syntax
+  sublinks:
+    - title: BuildUp Syntax
+      url: /syntax/buildup/
+    - title: BuildUp Library Syntax
+      url: /syntax/builduplibrary/
+    - title: Configuring the output
+      url: /syntax/buildconfsyntax/
+- title: About
+  url: /about

@@ -1,0 +1,42 @@
+.float-left {
+    display: block;
+    float: left;
+    margin: 0 25px 25px 0;
+}
+
+.float-right {
+    display: block;
+    float: right;
+    margin: 0 0 25px 25px;
+}
+
+.image-small {
+    width: 125px;
+}
+
+.image-medium {
+    width: 250px;
+}
+
+.image-large {
+    width: 500px;
+}
+
+.image-large, .image-medium, .image-small {
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15), 0 2px 5px rgba(0, 0, 0, 0.12);
+    border-radius: 4px;
+}
+
+.no-shadow {
+    box-shadow: none !important;
+}
+
+.gallery {
+    margin: 8px 8px 8px 8px;
+}
+
+@include media-query($on-palm) {
+    .image-medium, .image-large {
+        width: 100%;
+    }
+}

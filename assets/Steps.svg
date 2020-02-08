@@ -1,0 +1,601 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="717.42548mm"
+   height="397.75479mm"
+   viewBox="0 0 717.42547 397.7548"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (unknown)"
+   sodipodi:docname="Steps.svg">
+  <defs
+     id="defs2">
+    <marker
+       inkscape:stockid="Arrow1Send"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Send"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path870"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Send"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Send-3"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path870-6"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Send"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Send-1"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path870-5"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#0000ff;fill-opacity:1;fill-rule:evenodd;stroke:#0000ff;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Send"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Send-1-4"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path870-5-7"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#0000ff;fill-opacity:1;fill-rule:evenodd;stroke:#0000ff;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Send"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Send-1-4-5"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path870-5-7-6"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#0000ff;fill-opacity:1;fill-rule:evenodd;stroke:#0000ff;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Send"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Send-1-4-5-3"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path870-5-7-6-7"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#0000ff;fill-opacity:1;fill-rule:evenodd;stroke:#0000ff;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Send"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Send-1-4-5-5"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path870-5-7-6-2"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Send"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Send-8"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path870-68"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Send"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Send-8-4"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path870-68-3"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#0000ff;fill-opacity:1;fill-rule:evenodd;stroke:#0000ff;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.32"
+     inkscape:cx="1424.7612"
+     inkscape:cy="668.69168"
+     inkscape:document-units="mm"
+     inkscape:current-layer="g879"
+     showgrid="false"
+     inkscape:window-width="1600"
+     inkscape:window-height="827"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     fit-margin-top="15"
+     fit-margin-left="30"
+     fit-margin-right="10"
+     fit-margin-bottom="5">
+    <inkscape:grid
+       type="xygrid"
+       id="grid5704"
+       originx="8.8333301"
+       originy="-24.999995" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(542.34775,92.864895)">
+    <g
+       id="g879">
+      <text
+         id="text855"
+         y="-34.10714"
+         x="-242.66071"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:justify;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           id="tspan871"
+           style="font-size:8.81944466px;stroke-width:0.26458332px"
+           y="-27.864626"
+           x="-242.66071"
+           sodipodi:role="line" /></text>
+      <g
+         id="g1000"
+         transform="translate(-12.095174)">
+        <rect
+           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect815"
+           width="121.70833"
+           height="156.48215"
+           x="-250.22025"
+           y="-59.809525" />
+        <flowRoot
+           transform="matrix(0.26458333,0,0,0.26458333,-2.2678571,-1.5119048)"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666603px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:justify;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           id="flowRoot953"
+           xml:space="preserve"><flowRegion
+             id="flowRegion955"><rect
+               y="-164.62317"
+               x="-925.71429"
+               height="535.71429"
+               width="448.57138"
+               id="rect957" /></flowRegion><flowPara
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.66666794px;font-family:Courier;-inkscape-font-specification:Courier;text-align:start;text-anchor:start"
+             id="flowPara959"># Making a chair</flowPara><flowPara
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.66666794px;font-family:Courier;-inkscape-font-specification:Courier;text-align:start;text-anchor:start"
+             id="flowPara970" /><flowPara
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.66666794px;font-family:Courier;-inkscape-font-specification:Courier;text-align:start;text-anchor:start"
+             id="flowPara972">To make the chair you should:</flowPara><flowPara
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.66666794px;font-family:Courier;-inkscape-font-specification:Courier;text-align:start;text-anchor:start"
+             id="flowPara2068">* <flowSpan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Courier;-inkscape-font-specification:Courier;fill:#ff0000;fill-opacity:1"
+   id="flowSpan5567">[Cut wood]{step: True}</flowSpan></flowPara><flowPara
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.66666794px;font-family:Courier;-inkscape-font-specification:Courier;text-align:start;text-anchor:start"
+             id="flowPara974">* <flowSpan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Courier;-inkscape-font-specification:Courier;fill:#ff0000;fill-opacity:1"
+   id="flowSpan5569">[Assemble]{step: True}</flowSpan></flowPara></flowRoot>      </g>
+      <g
+         transform="translate(-162.52969,112.86133)"
+         id="g1000-6">
+        <rect
+           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect815-2"
+           width="121.70833"
+           height="156.48215"
+           x="-250.22025"
+           y="-59.809525" />
+        <flowRoot
+           transform="scale(0.26458333)"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666603px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:justify;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           id="flowRoot953-6"
+           xml:space="preserve"><flowRegion
+             id="flowRegion955-1"><rect
+               y="-164.62317"
+               x="-925.71429"
+               height="488.57144"
+               width="422.85715"
+               id="rect957-8" /></flowRegion><flowPara
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.66666794px;font-family:Courier;-inkscape-font-specification:Courier;text-align:start;text-anchor:start"
+             id="flowPara974-0"># Cut wood</flowPara><flowPara
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.66666794px;font-family:Courier;-inkscape-font-specification:Courier;text-align:start;text-anchor:start"
+             id="flowPara1072" /><flowPara
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.66666794px;font-family:Courier;-inkscape-font-specification:Courier;text-align:start;text-anchor:start"
+             id="flowPara1074">Use a <flowSpan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.66666794px;font-family:Courier;-inkscape-font-specification:Courier;fill:#0000fe;fill-opacity:1"
+   id="flowSpan5571">[saw]{Qty: 1}</flowSpan> to cut up six <flowSpan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.66666794px;font-family:Courier;-inkscape-font-specification:Courier;fill:#0000ff;fill-opacity:1"
+   id="flowSpan5583">[planks of wood]{Qty: 6}</flowSpan>.</flowPara></flowRoot>      </g>
+      <g
+         id="g2488">
+        <rect
+           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect815-37"
+           width="121.70833"
+           height="156.48215"
+           x="-111.88092"
+           y="53.051804" />
+        <flowRoot
+           transform="matrix(0.26458333,0,0,0.26458333,138.51929,112.86133)"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666603px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:justify;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           id="flowRoot953-5"
+           xml:space="preserve"><flowRegion
+             id="flowRegion955-9"><rect
+               y="-164.62317"
+               x="-925.71429"
+               height="488.57144"
+               width="422.85715"
+               id="rect957-2" /></flowRegion><flowPara
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.66666794px;font-family:Courier;-inkscape-font-specification:Courier;text-align:start;text-anchor:start"
+             id="flowPara959-2"># Assemble</flowPara><flowPara
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.66666794px;font-family:Courier;-inkscape-font-specification:Courier;text-align:start;text-anchor:start"
+             id="flowPara970-8" /><flowPara
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.66666794px;font-family:Courier;-inkscape-font-specification:Courier;text-align:start;text-anchor:start"
+             id="flowPara974-7">Asseble the wood with the <flowSpan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Courier;-inkscape-font-specification:Courier;fill:#0000ff;fill-opacity:1"
+   id="flowSpan5589">[glue]</flowSpan></flowPara><flowPara
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.66666794px;font-family:Courier;-inkscape-font-specification:Courier;text-align:start;text-anchor:start"
+             id="flowPara8865"><flowSpan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Courier;-inkscape-font-specification:Courier;fill:#0000ff;fill-opacity:1"
+   id="flowSpan8867">{Qty: 100 ml}</flowSpan> and <flowSpan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Courier;-inkscape-font-specification:Courier;fill:#0000ff;fill-opacity:1"
+   id="flowSpan5597">[wood screws]{Qty: 25}</flowSpan></flowPara></flowRoot>      </g>
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot953-5-3"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666603px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:justify;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#168500;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         transform="matrix(0.26458333,0,0,0.26458333,108.05245,-14.63976)"><flowRegion
+           id="flowRegion955-9-6"
+           style="fill:#168500;fill-opacity:1"><rect
+             id="rect957-2-1"
+             width="422.85715"
+             height="488.57144"
+             x="-925.71429"
+             y="-164.62317"
+             style="fill:#168500;fill-opacity:1" /></flowRegion><flowPara
+           id="flowPara974-7-3"
+           style="font-size:34.66666794px;text-align:start;text-anchor:start;fill:#168500;fill-opacity:1">Bill of materials:</flowPara><flowPara
+           id="flowPara1132"
+           style="font-size:34.66666794px;text-align:start;text-anchor:start;fill:#168500;fill-opacity:1" /><flowPara
+           id="flowPara1134"
+           style="font-size:34.66666794px;text-align:start;text-anchor:start;fill:#168500;fill-opacity:1">1 x saw</flowPara><flowPara
+           id="flowPara1136"
+           style="font-size:34.66666794px;text-align:start;text-anchor:start;fill:#168500;fill-opacity:1">6 x planks of wood</flowPara><flowPara
+           id="flowPara1138"
+           style="font-size:34.66666794px;text-align:start;text-anchor:start;fill:#168500;fill-opacity:1">100 ml of glue</flowPara><flowPara
+           id="flowPara1140"
+           style="font-size:34.66666794px;text-align:start;text-anchor:start;fill:#168500;fill-opacity:1">25 x wood screws</flowPara></flowRoot>      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path853"
+         d="m -264.58333,-4.6249952 -69.5358,52.6449902"
+         style="fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:3.7650001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Send)" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path853-7"
+         d="m -155.53113,16.989866 53.99155,31.525584"
+         style="fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:3.7650001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Send-3)" />
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot953-5-3-5"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666603px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:justify;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#168500;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         transform="matrix(0.26458333,0,0,0.26458333,258.58556,96.321025)"><flowRegion
+           id="flowRegion955-9-6-3"
+           style="fill:#168500;fill-opacity:1"><rect
+             id="rect957-2-1-5"
+             width="422.85715"
+             height="488.57144"
+             x="-925.71429"
+             y="-164.62317"
+             style="fill:#168500;fill-opacity:1" /></flowRegion><flowPara
+           id="flowPara974-7-3-6"
+           style="font-size:34.66666794px;text-align:start;text-anchor:start;fill:#168500;fill-opacity:1">Bill of materials:</flowPara><flowPara
+           id="flowPara1132-2"
+           style="font-size:34.66666794px;text-align:start;text-anchor:start;fill:#168500;fill-opacity:1" /><flowPara
+           id="flowPara1138-2"
+           style="font-size:34.66666794px;text-align:start;text-anchor:start;fill:#168500;fill-opacity:1">100 ml of glue</flowPara><flowPara
+           id="flowPara1140-7"
+           style="font-size:34.66666794px;text-align:start;text-anchor:start;fill:#168500;fill-opacity:1">25 x wood screws</flowPara></flowRoot>      <flowRoot
+         xml:space="preserve"
+         id="flowRoot953-5-3-0"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666603px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:justify;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#168500;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         transform="matrix(0.26458333,0,0,0.26458333,-256.74568,96.250154)"><flowRegion
+           id="flowRegion955-9-6-9"
+           style="fill:#168500;fill-opacity:1"><rect
+             id="rect957-2-1-3"
+             width="422.85715"
+             height="488.57144"
+             x="-925.71429"
+             y="-164.62317"
+             style="fill:#168500;fill-opacity:1" /></flowRegion><flowPara
+           id="flowPara974-7-3-60"
+           style="font-size:34.66666794px;text-align:start;text-anchor:start;fill:#168500;fill-opacity:1">Bill of materials:</flowPara><flowPara
+           id="flowPara1132-6"
+           style="font-size:34.66666794px;text-align:start;text-anchor:start;fill:#168500;fill-opacity:1" /><flowPara
+           id="flowPara1134-2"
+           style="font-size:34.66666794px;text-align:start;text-anchor:start;fill:#168500;fill-opacity:1">1 x saw</flowPara><flowPara
+           id="flowPara1136-6"
+           style="font-size:34.66666794px;text-align:start;text-anchor:start;fill:#168500;fill-opacity:1">6 x planks of wood</flowPara><flowPara
+           id="flowPara1140-8"
+           style="font-size:34.66666794px;text-align:start;text-anchor:start;fill:#168500;fill-opacity:1" /></flowRoot>      <g
+         transform="translate(63.122069,202.21726)"
+         id="g1000-6-93">
+        <rect
+           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect815-2-1"
+           width="121.70833"
+           height="156.48215"
+           x="-250.22025"
+           y="-59.809525" />
+        <flowRoot
+           transform="scale(0.26458333)"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666603px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:justify;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           id="flowRoot953-6-9"
+           xml:space="preserve"><flowRegion
+             id="flowRegion955-1-4"><rect
+               y="-164.62317"
+               x="-925.71429"
+               height="488.57144"
+               width="422.85715"
+               id="rect957-8-78" /></flowRegion><flowPara
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.66666794px;font-family:Courier;-inkscape-font-specification:Courier;text-align:start;text-anchor:start"
+             id="flowPara1074-0"># Glue</flowPara><flowPara
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.66666794px;font-family:Courier;-inkscape-font-specification:Courier;text-align:start;text-anchor:start"
+             id="flowPara2435" /><flowPara
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.66666794px;font-family:Courier;-inkscape-font-specification:Courier;text-align:start;text-anchor:start"
+             id="flowPara2437">Wood glue, not super glue</flowPara></flowRoot>      </g>
+      <g
+         transform="translate(213.55659,202.21726)"
+         id="g1000-6-3">
+        <rect
+           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect815-2-6"
+           width="121.70833"
+           height="156.48215"
+           x="-250.22025"
+           y="-59.809525" />
+        <flowRoot
+           transform="scale(0.26458333)"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666603px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:justify;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           id="flowRoot953-6-1"
+           xml:space="preserve"><flowRegion
+             id="flowRegion955-1-06"><rect
+               y="-164.62317"
+               x="-925.71429"
+               height="488.57144"
+               width="422.85715"
+               id="rect957-8-3" /></flowRegion><flowPara
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.66666794px;font-family:Courier;-inkscape-font-specification:Courier;text-align:start;text-anchor:start"
+             id="flowPara1074-6"># Wood screws</flowPara><flowPara
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.66666794px;font-family:Courier;-inkscape-font-specification:Courier;text-align:start;text-anchor:start"
+             id="flowPara2444" /><flowPara
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.66666794px;font-family:Courier;-inkscape-font-specification:Courier;text-align:start;text-anchor:start"
+             id="flowPara2446">Use 3.5 x 25mm wood screws. Remeber to drill a pilot hole with a <flowSpan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Courier;-inkscape-font-specification:Courier;fill:#0000ff;fill-opacity:1"
+   id="flowSpan5599">[2mm drill bit]{Qty: 1}</flowSpan></flowPara></flowRoot>      </g>
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path853-5"
+         d="m -407.57237,116.55488 -25.17492,21.18722"
+         style="fill:none;fill-rule:evenodd;stroke:#0000ff;stroke-width:3.7650001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Send-1)" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path853-5-6"
+         d="M -305.82429,96.523067 -284.4417,136.1795"
+         style="fill:none;fill-rule:evenodd;stroke:#0000ff;stroke-width:3.7650001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Send-1-4)" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path853-5-6-9"
+         d="m -107.71445,109.50192 -23.8119,27.8975"
+         style="fill:none;fill-rule:evenodd;stroke:#0000ff;stroke-width:3.7650001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Send-1-4-5)" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path853-5-6-9-4"
+         d="M -4.3787388,119.55199 15.604545,136.55388"
+         style="fill:none;fill-rule:evenodd;stroke:#0000ff;stroke-width:3.7650001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Send-1-4-5-3)" />
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot953-5-3-5-4"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666603px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:justify;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#168500;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         transform="matrix(0.26458333,0,0,0.26458333,334.36249,190.10306)"><flowRegion
+           id="flowRegion955-9-6-3-7"
+           style="fill:#168500;fill-opacity:1"><rect
+             id="rect957-2-1-5-4"
+             width="422.85715"
+             height="488.57144"
+             x="-925.71429"
+             y="-164.62317"
+             style="fill:#168500;fill-opacity:1" /></flowRegion><flowPara
+           id="flowPara974-7-3-6-4"
+           style="font-size:34.66666794px;text-align:start;text-anchor:start;fill:#168500;fill-opacity:1">Bill of materials:</flowPara><flowPara
+           id="flowPara1132-2-3"
+           style="font-size:34.66666794px;text-align:start;text-anchor:start;fill:#168500;fill-opacity:1" /><flowPara
+           id="flowPara1140-7-7"
+           style="font-size:34.66666794px;text-align:start;text-anchor:start;fill:#168500;fill-opacity:1">1 x 2mm drill bit</flowPara></flowRoot>      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path853-8"
+         d="m -512.34775,-64.946305 h 42.33333"
+         style="fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:3.7650001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Send-8)" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path853-8-1"
+         d="m -512.34775,-19.360094 h 42.33333"
+         style="fill:none;fill-rule:evenodd;stroke:#0000ff;stroke-width:3.7650001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Send-8-4)" />
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot953-5-3-0-4"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666603px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:justify;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#f80000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         transform="matrix(0.26458333,0,0,0.26458333,-214.26254,-34.131992)"><flowRegion
+           id="flowRegion955-9-6-9-9"
+           style="fill:#f80000;fill-opacity:1"><rect
+             id="rect957-2-1-3-2"
+             width="453.19907"
+             height="156.11568"
+             x="-925.71429"
+             y="-164.62317"
+             style="fill:#f80000;fill-opacity:1" /></flowRegion><flowPara
+           id="flowPara1136-6-9"
+           style="font-size:34.66666794px;text-align:start;text-anchor:start;fill:#f80000;fill-opacity:1">Step link: Full bill of materials of linked page is counted</flowPara><flowPara
+           id="flowPara1140-8-2"
+           style="font-size:34.66666794px;text-align:start;text-anchor:start;fill:#f80000;fill-opacity:1" /></flowRoot>      <flowRoot
+         xml:space="preserve"
+         id="flowRoot953-5-3-0-4-6"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666603px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:justify;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         transform="matrix(0.26458333,0,0,0.26458333,-214.5223,11.454219)"><flowRegion
+           id="flowRegion955-9-6-9-9-6"
+           style="fill:#0000ff;fill-opacity:1"><rect
+             id="rect957-2-1-3-2-4"
+             width="458.9136"
+             height="122.25939"
+             x="-925.71429"
+             y="-164.62317"
+             style="fill:#0000ff;fill-opacity:1" /></flowRegion><flowPara
+           id="flowPara1136-6-9-9"
+           style="font-size:34.66666794px;text-align:start;text-anchor:start;fill:#0000ff;fill-opacity:1">Part link: Only linked item is counted in bill of materials.</flowPara><flowPara
+           id="flowPara1140-8-2-5"
+           style="font-size:34.66666794px;text-align:start;text-anchor:start;fill:#0000ff;fill-opacity:1" /></flowRoot>      <g
+         transform="translate(-237.747,202.21726)"
+         id="g1000-6-9-3">
+        <rect
+           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect815-2-2-9"
+           width="121.70833"
+           height="156.48215"
+           x="-250.22025"
+           y="-59.809525" />
+        <flowRoot
+           transform="scale(0.26458333)"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666603px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:justify;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           id="flowRoot953-6-28-4"
+           xml:space="preserve"><flowRegion
+             id="flowRegion955-1-9-6"><rect
+               y="-164.62317"
+               x="-925.71429"
+               height="488.57144"
+               width="422.85715"
+               id="rect957-8-7-4" /></flowRegion><flowPara
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.66666794px;font-family:Courier;-inkscape-font-specification:Courier;text-align:start;text-anchor:start"
+             id="flowPara974-0-36-5"># Plank of wood</flowPara><flowPara
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.66666794px;font-family:Courier;-inkscape-font-specification:Courier;text-align:start;text-anchor:start"
+             id="flowPara1072-1-5" /><flowPara
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.66666794px;font-family:Courier;-inkscape-font-specification:Courier;text-align:start;text-anchor:start"
+             id="flowPara1074-2-5">Flat, planed planks of wood. Oak is best.</flowPara></flowRoot>      </g>
+      <g
+         transform="translate(-87.312386,202.21726)"
+         id="g1000-6-7-6">
+        <rect
+           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect815-2-9-0"
+           width="121.70833"
+           height="156.48215"
+           x="-250.22025"
+           y="-59.809525" />
+        <flowRoot
+           transform="scale(0.26458333)"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666603px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:justify;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           id="flowRoot953-6-2-6"
+           xml:space="preserve"><flowRegion
+             id="flowRegion955-1-0-2"><rect
+               y="-164.62317"
+               x="-925.71429"
+               height="488.57144"
+               width="422.85715"
+               id="rect957-8-2-6" /></flowRegion><flowPara
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.66666794px;font-family:Courier;-inkscape-font-specification:Courier;text-align:start;text-anchor:start"
+             id="flowPara974-0-3-9"># Saw</flowPara><flowPara
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.66666794px;font-family:Courier;-inkscape-font-specification:Courier;text-align:start;text-anchor:start"
+             id="flowPara1072-7-9" /><flowPara
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.66666794px;font-family:Courier;-inkscape-font-specification:Courier;text-align:start;text-anchor:start"
+             id="flowPara1074-5-2">A wood saw.</flowPara></flowRoot>      </g>
+    </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot937"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666603px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:justify;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
+         id="flowRegion939"><rect
+           id="rect941"
+           width="325.71426"
+           height="128.57143"
+           x="-908.57141"
+           y="22.519686" /></flowRegion><flowPara
+         id="flowPara943" /></flowRoot>  </g>
+</svg>
