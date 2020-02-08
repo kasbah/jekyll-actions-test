@@ -17,3 +17,4 @@ gems:
 relative_links:
   enabled: true
   collections: true
+baseurl: /git-building-website/
