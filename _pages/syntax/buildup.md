@@ -57,7 +57,7 @@ This will count two `M3 Nuts` and one `M3x25 screw`.
 
 Numbers are counted as expected. If text entries are added the result is `some`. Git-Building is **not yet** unit aware, but later it should be able to add `10 g` and `45 g` to get `55 g`. 
 
-The part link (URI) can be a link to anything for example another website, a markdown file, or an STL file. To use link to a file in a [part library](/syntax/builduplibrary/) you should specify it in the form
+The part link (URI) can be a link to anything for example another website, a markdown file, or an STL file. To use link to a file in a [part library]({{ /syntax/builduplibrary/ | prepend: site.baseurl }}) you should specify it in the form
 
     [Part](library.yaml#key){Qty: 1}
     
@@ -72,7 +72,7 @@ To add extra information to a part you can use a reference style link, extra inf
 Extra information is specified in key value syntax that is case insensitive, a comma is used before a new key. The following keys are defined:
 
 * `TotalQty` - This sets the total of a part used on a page. It can be use to over-ride the counted value. It can also be used to check all uses are mentioned in the text as Git-Building will produce a warning if they don't match.
-* `Cat` - Short for "category". This defines the type of part. Standard BuildUp has two categories `Part` and `Tool`. Parts are counted normally, for tools the maximum quantity used in a single link is used for the bill of materials. Git-Building can define custom categories in its [configuration](BuildConfigSyntax.md).
+* `Cat` - Short for "category". This defines the type of part. Standard BuildUp has two categories `Part` and `Tool`. Parts are counted normally, for tools the maximum quantity used in a single link is used for the bill of materials. Git-Building can define custom categories in its [configuration]({{/syntax/buildconfsyntax | prepend: site.baseurl }}).
 * `Note` - This sets a note which is displayed with the part in the bill of materials.
 
 ### Displaying Bill of Materials

@@ -4,7 +4,7 @@ title: GitBuilding Software
 permalink: /software
 ---
 
-GitBuilding is a python program which turns pages written in [BuildUp](/syntax/buildup) into a static website (or into plain markdown). BuildUp a markdown extension that is being developed to add metadata about hardware directly into the instructions. This allows a consistent bill of materials to be generated.
+GitBuilding is a python program which turns pages written in [BuildUp]({{ /syntax/buildup | prepend: site.baseurl }}) into a static website (or into plain markdown). BuildUp a markdown extension that is being developed to add metadata about hardware directly into the instructions. This allows a consistent bill of materials to be generated.
 
 ## Installation
 
@@ -22,11 +22,11 @@ Once the GitBuilding is a bit more stable we will add a simple way to install an
 
 ## Using Git-Building
 
-A Git-Building project can be as simple as a folder with some markdown files in it. To add extra information into these files to allow a bill of materials to be generated we use a syntax we call [BuildUp](/syntax/buildup). Git-Building will then process the BuildUp and export the result it in either a plain markdown format
+A Git-Building project can be as simple as a folder with some markdown files in it. To add extra information into these files to allow a bill of materials to be generated we use a syntax we call [BuildUp]({{ /syntax/buildup | prepend: site.baseurl }}). Git-Building will then process the BuildUp and export the result it in either a plain markdown format
 
-When specifying parts in BuildUp they can have their own BuildUp page, or can be part of a [BuildUp part library](/syntax/builduplibrary) in YAML format. 
+When specifying parts in BuildUp they can have their own BuildUp page, or can be part of a [BuildUp part library]({{ /syntax/builduplibrary | prepend: site.baseurl }}) in YAML format. 
 
-It is possible to customise how Git-Building builds the Buildup into plain markdown or HTML by making a [configuration file called buildconf.yaml](/sntax/buildconfsyntax).
+It is possible to customise how Git-Building builds the Buildup into plain markdown or HTML by making a [configuration file called buildconf.yaml]({{ /sntax/buildconfsyntax | prepend: site.baseurl }}).
 
 ## Running the Git-Building software
 

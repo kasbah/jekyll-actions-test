@@ -4,7 +4,7 @@ title: Syntax
 permalink: /syntax/
 ---
 
-GitBuilding uses a markdown-like syntax called [BuildUp](/syntax/buildup). We plan to formalise BuildUp into a standard once we have figured out what works best.
+GitBuilding uses a markdown-like syntax called [BuildUp]({{/syntax/buildup | prepend: site.baseurl }}). We plan to formalise BuildUp into a standard once we have figured out what works best.
 
 ## Basic example:
 {% raw %}
@@ -48,9 +48,9 @@ Take two [M6x10 cap screws] and screw them into the bottom of the [widget base] 
 
 Screw two more [M6x10 cap screws] into the top of the [widget base] the [same ball driver][5mm ball driver].
 
-[5mm ball driver]:balldriver
-[M6x10 cap screws]:m6capscrew
-[widget base]:base
+[5mm ball driver]:{{balldriver | prepend: site.baseurl }}
+[M6x10 cap screws]:{{m6capscrew | prepend: site.baseurl }}
+[widget base]:{{base | prepend: site.baseurl }}
 
 </div >
 
