@@ -6,6 +6,13 @@ permalink: /syntax/
 
 GitBuilding uses a markdown-like syntax called [BuildUp]({{site.baseurl}}/syntax/buildup). We plan to formalise BuildUp into a standard once we have figured out what works best.
 
+## Detailed explanations of syntax
+For more details please see
+
+* [BuildUp Syntax]({{site.baseurl}}/syntax/buildup)
+* [BuildUp Library Syntax]({{site.baseurl}}/syntax/builduplibrary)
+* [Configuring the GitBuilding output]({{site.baseurl}}/syntax/buildconfsyntax)
+
 ## Basic example:
 
 {% raw %}
@@ -60,3 +67,5 @@ Screw two more [M6x10 cap screws] into the top of the [widget base] the [same ba
 
 
 A full [example is available](https://gitlab.com/bath_open_instrumentation_group/git-building-example).
+
+

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Configuring the Git-Building output
+title: Configuring the GitBuilding output
 permalink: /syntax/buildconfsyntax
 ---
 
