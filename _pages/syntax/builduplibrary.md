@@ -11,7 +11,7 @@ Part libraries can be used to generate identically formatted markdown files for 
 
 For example, `Screws.yaml` contains two parts: `M3x6Cap_SS` and `M3x8Cap_SS`
 
-```YAML
+```
 M3x6Cap_SS:
     Name: M3 x 6 mm Cap Screw (Stainless Steel)
     Description: Metric Screw

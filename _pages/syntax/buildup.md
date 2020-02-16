@@ -15,6 +15,10 @@ Steps allow you to write hierarchical documentation and count all of the parts u
 
 Steps can also be used to generate navigation for the documentation.
 
+<h3>Table of contents</h3>
+* Do not remove this line (it will not be displayed)
+{:toc}
+
 ## BuildUp Syntax
 
 ### Page title
@@ -83,3 +87,42 @@ For pages with a larger bill of materials it make sense to have it on a separate
     
     This bill of materials can be found [here]({{BOMlink}})
 {% endraw %}
+
+## GitBuilding BuildUp
+
+While GitBuilding is currently the only project using BuildUp we want to make BuildUp into a standard. Long term we would like platforms like [Wikifactory](https://wikifactory.com), [Wevolver](https://www.wevolver.com), and [Instructables](https://www.instructables.com) to support the standard. This way if your documentation is portable.
+
+GitBuilding does a few things which can make documentation more useful, but we don't think they belong directly in the BuildUp standard as other software or platforms will want to work differently. None of the what is detailed bellow changes the BuildUp standard, or adds any extra syntax, instead a certain way of writing BuildUp will cause GitBuilding to tidy up the documentation.
+
+### Image galleries
+
+Sometimes a large group of sequential images looks messy. In GitBuilding if you start a new line and the include multiple images on that same line with no other text it will turn the images into a gallery. For example:
+
+{% raw %}
+<pre class="example-block">
+
+Start screwing the gear into the actuator column from the top. Apply a small amount of [light oil]{Qty: "A few drops of"} to the screw thread, before you fully tighten the screw  
+![](images/3-5-GearAttach.jpg)![](images/3-6-Oil.jpg)![](images/3-7-GearAttach.jpg)
+{% endraw %}
+</pre>
+
+will render as:
+
+<div class="example">
+<p>Start screwing the gear into the actuator column from the top. Apply a small amount of <a href="#">light oil</a> to the screw thread, before you fully tighten the screw  </p>
+<div class="gallery-thumb"><img onmouseover="getElementById('gallery-show3').src=this.src" src="{{site.baseurl}}/images/3-5-GearAttach.jpg" alt="" /><img onmouseover="getElementById('gallery-show3').src=this.src" src="{{site.baseurl}}/images/3-6-Oil.jpg" alt="" /><img onmouseover="getElementById('gallery-show3').src=this.src" src="{{site.baseurl}}/images/3-7-GearAttach.jpg" alt="" /></div>
+<div class="gallery-show"><img id="gallery-show3" src="{{site.baseurl}}/images/3-5-GearAttach.jpg" alt=""/></div>
+</div>
+
+### STL preview
+
+GitBuilding can do a live 3D preview of STL files. This can be done in one of two ways:
+
+1. A part link to an STL file will a link to a new page with a download link and the STL live preview on it.
+1. A link to an STL file that is on its own line will be replaced with a download link and an STL live preview.
+
+An screenshot of the live preview:
+
+<div class="example" markdown="1">
+![]({{site.baseurl}}/assets/STL_livepreview.png)
+</div>
