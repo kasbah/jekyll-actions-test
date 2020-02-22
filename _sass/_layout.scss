@@ -231,13 +231,13 @@
 
 .footer-col-wrapper {
     font-size: 15px;
-    color: $grey-color;
+    color: $grey-color-dark;
     margin-left: -$spacing-unit / 2;
     @extend %clearfix;
     
     a{
         font-size: 15px;
-        color: $grey-color;
+        color: $grey-color-dark;
         font-weight: normal;
         text-decoration: none;
         

@@ -4,7 +4,7 @@ email: julian@julianstirling.co.uk
 description: > # this means to ignore newlines until "baseurl:"
   For documenting hardware projects with minimal effort, so you can stop writing and git building.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "/" # the base hostname & protocol for your site
+url: "https://gitbuilding.io"
 # twitter_username: jekyllrb
 # github_username:  jekyll
 
