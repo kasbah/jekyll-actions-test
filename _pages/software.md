@@ -74,4 +74,4 @@ You can get help for a specific command with
 
     gitbuilding help <command>
 
-If you still have problems please [raise an issue on GitLab](https://gitlab.com/bath_open_instrumentation_group/git-building/issues).
+If you still have problems please [raise an issue on GitLab](https://gitlab.com/gitbuilding/gitbuilding/issues).

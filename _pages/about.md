@@ -14,4 +14,4 @@ In GitBuilding you are able to:
 * Define a library including the part numbers for multiple suppliers
 * Syntax for adding in bill of materials
 
-**Note: While we work out the best syntax, major things might change!** If you have syntax suggestions please [raise an issue](https://gitlab.com/bath_open_instrumentation_group/git-building/issues).
+**Note: While we work out the best syntax, major things might change!** If you have syntax suggestions please [raise an issue](https://gitlab.com/gitbuilding/gitbuilding/issues).

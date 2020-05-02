@@ -66,6 +66,6 @@ Screw two more [M6x10 cap screws] into the top of the [widget base] the [same ba
 </div >
 
 
-A full [example is available](https://gitlab.com/bath_open_instrumentation_group/git-building-example).
+A full [example is available](https://gitlab.com/gitbuilding/gitbuilding-example).
 
 
