@@ -1,6 +1,6 @@
 ---
 layout: page
-title: BuildUp Part Library Syntax
+title: Part Libraries
 permalink: /syntax/builduplibrary
 ---
 
@@ -11,7 +11,8 @@ Part libraries can be used to generate identically formatted markdown files for 
 
 For example, `Screws.yaml` contains two parts: `M3x6Cap_SS` and `M3x8Cap_SS`
 
-```
+<pre class="example-block">
+{% raw %}
 M3x6Cap_SS:
     Name: M3 x 6 mm Cap Screw (Stainless Steel)
     Description: Metric Screw
@@ -36,12 +37,18 @@ M3x8Cap_SS:
         RS Components:
             PartNo: 280-997
             Link: 'https://uk.rs-online.com/web/p/socket-screws/0280997/'
-```
+{% endraw %}
+</pre>
 
 To reference these screws could be used as parts using the following:
 
-    You will need both [M3x6](Screws.yaml#M3x6Cap_SS){Qty: 10} and an [M3x8](Screws.yaml#M3x8Cap_SS){Qty: 10} screws
-    
+<pre class="example-block">
+{% raw %}
+You will need both [M3x6](Screws.yaml#M3x6Cap_SS){Qty: 10} and an [M3x8](Screws.yaml#M3x8Cap_SS){Qty: 10} screws
+{% endraw %}
+</pre>
+
+
 # Defined keys
 
 The following keys are defined for a part in a part library:

@@ -15,9 +15,9 @@ For more details please see
 
 ## Basic example:
 
-{% raw %}
-<pre class="example-block">
 
+<pre class="example-block">
+{% raw %}
 # Making a widget
 
 ## You will need
@@ -31,7 +31,6 @@ Take two [M6x10 cap screws](m6capscrew.md){Qty: 2} and screw them into the botto
 Screw two more [M6x10 cap screws]{Qty: 2} into the top of the [widget base] the [same ball driver][5mm ball driver]{Qty: 1}.
 
 {% endraw %}
-
 </pre>
 
 Will evaluate to
