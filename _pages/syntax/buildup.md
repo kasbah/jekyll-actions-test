@@ -139,7 +139,7 @@ Apply paint to the wall
 
 </div>
 
-You can then link to this step with `page.md#Open-the-tin`.
+You can then link to this step with `page.md#open-the-tin`. The id for the heading link is contains only the alphanumeric characters in the heading plus `-` and `_`. Spaces are changed to `-`s and all letters int the id are lower case.
 
 You can also redefine the ID, if you replaced the line above with:
 
