@@ -74,7 +74,7 @@ Screw an [M3 nut](m3nut.md){Qty: 1} onto the [M3x25 screw][m3x25screw.md]{Qty: 1
 
 This will count two `M3 Nuts` and one `M3x25 screw`.
 
-Numbers are counted as expected. If text entries are added the result is `some`. Git-Building is **not yet** unit aware, but later it should be able to add `10 g` and `45 g` to get `55 g`. 
+Numbers are counted as expected. If text quantities are added the result is `Some`, and a warning is logged. GitBuilding is partially unit aware. It can add `10 g` and `45 g` to get `55 g`, but it cannot yet do conversion to add `1 kg` and `200 g` to `1.2 kg`. In the case of mismatched units the quantities are added as the same a text quantities.
 
 The part link (URI) can be a link to anything for example another website, a markdown file, or an STL file. To use link to a file in a [part library]({{site.baseurl}}/syntax/builduplibrary/) you should specify it in the form
 
@@ -98,8 +98,8 @@ To add extra information to a part you can use a reference style link, extra inf
 
 Extra information is specified in key value syntax that is case insensitive, a comma is used before a new key. The following keys are defined:
 
-* `TotalQty` - This sets the total of a part used on a page. It can be use to over-ride the counted value. It can also be used to check all uses are mentioned in the text as Git-Building will produce a warning if they don't match.
-* `Cat` - Short for "category". This defines the type of part. Standard BuildUp has two categories `Part` and `Tool`. Parts are counted normally, for tools the maximum quantity used in a single link is used for the bill of materials. Git-Building can define custom categories in its [configuration]({{site.baseurl}}/syntax/buildconfsyntax).
+* `TotalQty` - This sets the total of a part used on a page. It can be use to over-ride the counted value. It can also be used to check all uses are mentioned in the text as GitBuilding will produce a warning if they don't match.
+* `Cat` - Short for "category". This defines the type of part. Standard BuildUp has two categories `Part` and `Tool`. Parts are counted normally, for tools the maximum quantity used in a single link is used for the bill of materials. GitBuilding can define custom categories in its [configuration]({{site.baseurl}}/syntax/buildconfsyntax).
 * `Note` - This sets a note which is displayed with the part in the bill of materials.
 
 ### Displaying Bill of Materials

@@ -141,5 +141,5 @@ Other options for the `buildconf.yaml` file:
 * **Exclude**: List of files that are in the documentation directory that you do not want to be processed. (Note: all files beginning with a `.` or a `_` are also excluded.  *Default: [README.md]*
 * **ForceOutput**: This is a list of file that are forced to be in the output. As standard non-markdown files are only included in the output if they are linked to in a BuildUp file. *Default is an empty list*
 * **Title**: Can be used to override the title of the project for the HTML build. Default is the title of index.md or the `LandingPage`
-* **Fussy**: Boolean value. If true Git-Building will warn about possible problems with the documentation. *Default: True*
+* **Fussy**: Boolean value. If true GitBuilding will warn about possible problems with the documentation. *Default: True*
 
