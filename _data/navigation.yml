@@ -1,13 +1,13 @@
 - title: Software
   url: /software
-- title: Syntax
+- title: Usage
   url: #
   sublinks:
     - title: Overview
       url: /syntax
-    - title: BuildUp Syntax
+    - title: BuildUp markdown
       url: /syntax/buildup/
-    - title: BuildUp Library Syntax
+    - title: Part Libraries
       url: /syntax/builduplibrary/
     - title: Configuring the output
       url: /syntax/buildconfsyntax/

@@ -14,7 +14,7 @@ To install (for Python 3.6+)
     
 *Note: If you installed python from the Windows app store Git-Building will not work as intended. If you are on windows you should install [python](https://www.python.org/downloads/) or [Anaconda](https://www.anaconda.com/distribution/). During install make sure you select the box to add python to your PATH*
 
-If you wish to contribute to development of Git-Building you can clone the project from GitLab but you will need to build the javascript editor from source. To do so please see the [dedicated building/contributing page](https://gitlab.com/bath_open_instrumentation_group/git-building/-/blob/master/CONTRIBUTING.md)
+If you wish to contribute to development of Git-Building you can clone the project from GitLab but you will need to build the javascript editor from source. For more information on contributing see our [contributing guide](https://gitlab.com/gitbuilding/gitbuilding/-/blob/master/CONTRIBUTING.md).
 
 Once the GitBuilding is a bit more stable we will add a simple way to install and run without using the command line.
 
@@ -26,7 +26,7 @@ A Git-Building project can be as simple as a folder with some markdown files in 
 
 When specifying parts in BuildUp they can have their own BuildUp page, or can be part of a [BuildUp part library]({{site.baseurl}}/syntax/builduplibrary) in YAML format. 
 
-It is possible to customise how Git-Building builds the Buildup into plain markdown or HTML by making a [configuration file called buildconf.yaml]({{site.baseurl}}/sntax/buildconfsyntax).
+It is possible to customise how Git-Building builds the Buildup into plain markdown or HTML by making a [configuration file called buildconf.yaml]({{site.baseurl}}/syntax/buildconfsyntax).
 
 ## Running the Git-Building software
 
@@ -40,29 +40,31 @@ Open your terminal in an empty folder you want to use for your documentation and
 
 empty documentation files will be added to the directory.
 
-### Building the documentation
+### Previewing the documentation and editing in the live editor
 
-Open your terminal and run
-
-    gitbuilding build
-
-this will build your the documentation in your folder assuming you have a valid `buildconf.yaml` file (see below).
-
-### Previewing the documentation or use the live editor
-
-Open your terminal and run
+GitBuilding has a built in live editor. Open your terminal, navigate to the folder with your documentation, and run
 
     gitbuilding serve
 
-and then open a browser and navigate to `http://localhost:6178/`. This will show the documentation in a browseable form. You can also edit the documentation directly from your browser:
+You can now open a browser and navigate to `http://localhost:6178/`. This will show the documentation in a browsable form, exactly as it is will be output by `build-html` (see below). You can also edit the documentation directly from your browser by selecting `edit` in the top-right corner:
 
 ![]({{site.baseurl}}/assets/LiveEditorScreenshot.png)
 
+### Building to standard markdown documentation
+
+To build the documentation in your current folder run
+
+    gitbuilding build
+
+This will create markdown documentation in the directory `_build`. This documentation can then be used anywhere you might usually use markdown.
+
 ### Build a static-html site
 
-Once you have built the documentation with `gitbuilding build` you can convert this into html with
+You can also use GitBuilding to create a static html with
 
     gitbuilding build-html
+
+This will output your an html website into `_site`.
 
 ### Getting help
 
