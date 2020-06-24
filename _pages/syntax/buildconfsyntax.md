@@ -74,25 +74,9 @@ When you run `gitbuilding serve` or `gitbuilding build-html` GitBuilding will ge
 
 ### Custom Header and Footer
 
-The default header and footer for the generated HTML pages can be overridden using the `buildconf.yaml`. For example:
+The header and footer are est using [jinja2 templates](https://jinja.palletsprojects.com/en/2.11.x/). If you make a directory in your documentation called `_templates` and put in files called `header.html.jinja` or `footer.html.jinja` it will use these instead of the default ones. This feature is not well documented but [you can look at the standard templates for inspiration](https://gitlab.com/gitbuilding/gitbuilding/-/tree/master/gitbuilding/templates) (in theory any of these could be modified by adding a modified copy to `_templates`), there is also an example custom header and footer in [the example project](https://gitlab.com/gitbuilding/gitbuilding-example/).
 
-<pre class="example-block" markdown="0">
-
-HTMLOptions:
-    AcknowledgeGitBuilding: True
-    CustomFooter: >
-        &lt;p class="author">Copyright {authors} {Year}&lt;/p>
-        &lt;p class="license">{title} is released under {license}</p>
-        &lt;p>&lt;b>Disclaimer: &lt;/b>{disclaimer}&lt;/p>
-    CustomHeader: >
-        &lt;a class="site-title" href="{Root}">{title}&lt;/a>
-        &lt;p>This is a custom header&lt;/p>
-
-</pre>
-
-The `AcknowledgeGitBuilding` key sets whether to show the "Documentation powered by Git Building" message above the footer.
-
-The `CustomFooter` and `CustomHeader` keys set the HTML for the header. A number of variables from GitBuilding can be used by putting them inside `{}`s. The list of variables are:
+When making custom templates the following variables can be accessed:
 
 * `title` - Project title
 * `year` - The current year

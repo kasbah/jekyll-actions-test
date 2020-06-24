@@ -74,7 +74,7 @@ Screw an [M3 nut](m3nut.md){Qty: 1} onto the [M3x25 screw][m3x25screw.md]{Qty: 1
 
 This will count two `M3 Nuts` and one `M3x25 screw`.
 
-Numbers are counted as expected. If text quantities are added the result is `Some`, and a warning is logged. GitBuilding is partially unit aware. It can add `10 g` and `45 g` to get `55 g`, but it cannot yet do conversion to add `1 kg` and `200 g` to `1.2 kg`. In the case of mismatched units the quantities are added as the same a text quantities.
+Numbers are counted as expected. If text quantities are added the result is `Some`, and a warning is logged. GitBuilding is somewhat unit aware. It can add `10 g` and `45 g` to get `55 g`,  it can also add `1 kg` and `200 g` to `1.2 kg`. The unit system is somewhat limited and could do with expanding. However, if you add unknown units it will work as expected if they are consistent, i.e. `2 splashes` and `3 splashes` will add correctly to `5 splashes`.
 
 The part link (URI) can be a link to anything for example another website, a markdown file, or an STL file. To use link to a file in a [part library]({{site.baseurl}}/syntax/builduplibrary/) you should specify it in the form
 
@@ -159,12 +159,14 @@ GitBuilding does a few things which can make documentation more useful, but we d
 
 ### Image galleries
 
-Sometimes a large group of sequential images looks messy. In GitBuilding if you start a new line and the include multiple images on that same line with no other text it will turn the images into a gallery. For example:
+Sometimes a large group of sequential images looks messy. In GitBuilding if you start a new line and the include multiple images on that same line or subsequent lines (with no other text on the lines) it will turn the images into a gallery. For example:
 
 <pre class="example-block">
 {% raw %}
 Start screwing the gear into the actuator column from the top. Apply a small amount of [light oil]{Qty: "A few drops of"} to the screw thread, before you fully tighten the screw  
-![](images/3-5-GearAttach.jpg)![](images/3-6-Oil.jpg)![](images/3-7-GearAttach.jpg)
+![](images/3-5-GearAttach.jpg)
+![](images/3-6-Oil.jpg)
+![](images/3-7-GearAttach.jpg)
 {% endraw %}
 </pre>
 
