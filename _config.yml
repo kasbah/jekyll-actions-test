@@ -19,3 +19,4 @@ relative_links:
   enabled: true
   collections: true
 baseurl: ""
+destination: ./build
